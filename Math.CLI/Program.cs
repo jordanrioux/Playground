@@ -6,7 +6,6 @@ BasicMath.AddOperation("bob", (a, b) => -b);
 
 
 // (a, b) => a % b
-
 // () => 5 
 // () => {
 //      return 5;
