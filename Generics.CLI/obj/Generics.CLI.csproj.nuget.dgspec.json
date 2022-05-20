@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mathiscote/Test/Playground/Generics.CLI/Generics.CLI.csproj": {}
+    "C:\\Users\\acollette\\OneDrive - Cegep de Sorel-Tracy\\HIV 2022\\POO III\\JordyPlayground\\Playground\\Generics.CLI\\Generics.CLI.csproj": {}
   },
   "projects": {
-    "/Users/mathiscote/Test/Playground/Generics.CLI/Generics.CLI.csproj": {
+    "C:\\Users\\acollette\\OneDrive - Cegep de Sorel-Tracy\\HIV 2022\\POO III\\JordyPlayground\\Playground\\Generics.CLI\\Generics.CLI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mathiscote/Test/Playground/Generics.CLI/Generics.CLI.csproj",
+        "projectUniqueName": "C:\\Users\\acollette\\OneDrive - Cegep de Sorel-Tracy\\HIV 2022\\POO III\\JordyPlayground\\Playground\\Generics.CLI\\Generics.CLI.csproj",
         "projectName": "Generics.CLI",
-        "projectPath": "/Users/mathiscote/Test/Playground/Generics.CLI/Generics.CLI.csproj",
-        "packagesPath": "/Users/mathiscote/.nuget/packages/",
-        "outputPath": "/Users/mathiscote/Test/Playground/Generics.CLI/obj/",
+        "projectPath": "C:\\Users\\acollette\\OneDrive - Cegep de Sorel-Tracy\\HIV 2022\\POO III\\JordyPlayground\\Playground\\Generics.CLI\\Generics.CLI.csproj",
+        "packagesPath": "C:\\Users\\acollette\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\acollette\\OneDrive - Cegep de Sorel-Tracy\\HIV 2022\\POO III\\JordyPlayground\\Playground\\Generics.CLI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/mathiscote/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\acollette\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -26,8 +26,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/mathiscote/Test/Playground/Generics/Generics.csproj": {
-                "projectPath": "/Users/mathiscote/Test/Playground/Generics/Generics.csproj"
+              "C:\\Users\\acollette\\OneDrive - Cegep de Sorel-Tracy\\HIV 2022\\POO III\\JordyPlayground\\Playground\\Generics\\Generics.csproj": {
+                "projectPath": "C:\\Users\\acollette\\OneDrive - Cegep de Sorel-Tracy\\HIV 2022\\POO III\\JordyPlayground\\Playground\\Generics\\Generics.csproj"
               }
             }
           }
@@ -56,21 +56,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.105\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/mathiscote/Test/Playground/Generics/Generics.csproj": {
+    "C:\\Users\\acollette\\OneDrive - Cegep de Sorel-Tracy\\HIV 2022\\POO III\\JordyPlayground\\Playground\\Generics\\Generics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mathiscote/Test/Playground/Generics/Generics.csproj",
+        "projectUniqueName": "C:\\Users\\acollette\\OneDrive - Cegep de Sorel-Tracy\\HIV 2022\\POO III\\JordyPlayground\\Playground\\Generics\\Generics.csproj",
         "projectName": "Generics",
-        "projectPath": "/Users/mathiscote/Test/Playground/Generics/Generics.csproj",
-        "packagesPath": "/Users/mathiscote/.nuget/packages/",
-        "outputPath": "/Users/mathiscote/Test/Playground/Generics/obj/",
+        "projectPath": "C:\\Users\\acollette\\OneDrive - Cegep de Sorel-Tracy\\HIV 2022\\POO III\\JordyPlayground\\Playground\\Generics\\Generics.csproj",
+        "packagesPath": "C:\\Users\\acollette\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\acollette\\OneDrive - Cegep de Sorel-Tracy\\HIV 2022\\POO III\\JordyPlayground\\Playground\\Generics\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/mathiscote/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\acollette\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -108,7 +108,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.105\\RuntimeIdentifierGraph.json"
         }
       }
     }
