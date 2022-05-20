@@ -27,19 +27,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/mathiscote/.nuget/packages/": {}
+    "C:\\Users\\acollette\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mathiscote/Test/Playground/Math.CLI/Math.CLI.csproj",
+      "projectUniqueName": "C:\\Users\\acollette\\OneDrive - Cegep de Sorel-Tracy\\HIV 2022\\POO III\\JordyPlayground\\Playground\\Math.CLI\\Math.CLI.csproj",
       "projectName": "Math.CLI",
-      "projectPath": "/Users/mathiscote/Test/Playground/Math.CLI/Math.CLI.csproj",
-      "packagesPath": "/Users/mathiscote/.nuget/packages/",
-      "outputPath": "/Users/mathiscote/Test/Playground/Math.CLI/obj/",
+      "projectPath": "C:\\Users\\acollette\\OneDrive - Cegep de Sorel-Tracy\\HIV 2022\\POO III\\JordyPlayground\\Playground\\Math.CLI\\Math.CLI.csproj",
+      "packagesPath": "C:\\Users\\acollette\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\acollette\\OneDrive - Cegep de Sorel-Tracy\\HIV 2022\\POO III\\JordyPlayground\\Playground\\Math.CLI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/mathiscote/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\acollette\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -51,8 +51,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/mathiscote/Test/Playground/MathLibrary/MathLibrary.csproj": {
-              "projectPath": "/Users/mathiscote/Test/Playground/MathLibrary/MathLibrary.csproj"
+            "C:\\Users\\acollette\\OneDrive - Cegep de Sorel-Tracy\\HIV 2022\\POO III\\JordyPlayground\\Playground\\MathLibrary\\MathLibrary.csproj": {
+              "projectPath": "C:\\Users\\acollette\\OneDrive - Cegep de Sorel-Tracy\\HIV 2022\\POO III\\JordyPlayground\\Playground\\MathLibrary\\MathLibrary.csproj"
             }
           }
         }
@@ -81,7 +81,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.105\\RuntimeIdentifierGraph.json"
       }
     }
   }
