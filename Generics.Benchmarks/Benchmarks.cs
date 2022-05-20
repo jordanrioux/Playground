@@ -15,10 +15,5 @@ public class Benchmarks
     {
         return StringUtils.IsWhiteSpace2(Test);
     }
-	
-	public bool test()
-	{
-		
-	}
 
 }
