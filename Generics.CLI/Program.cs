@@ -1,4 +1,5 @@
-﻿using System.Text.Json;
+﻿using System;
+using System.Text.Json;
 using System.Threading.Channels;
 using Generics;
 using Generics.CLI;
@@ -12,6 +13,8 @@ var jsonString = @"{
         ""Krist Novoselic""
     ]
 }";
+
+Console.WriteLine("Hello wolrd first commit - Mathis");
 
 // JSON to POCO
 var album = JsonSerializer.Deserialize<Artist>(jsonString);
