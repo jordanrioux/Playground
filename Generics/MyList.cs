@@ -4,6 +4,7 @@ namespace Generics;
 
 public class MyList<T>
 {
+    // easy fix
     private const int DefaultCapacity = 8;
     
     private int _count;
