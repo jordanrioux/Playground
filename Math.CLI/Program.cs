@@ -18,6 +18,10 @@ BasicMath.AddOperation("bob", (a, b) => -b);
 
 // YOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 
+// YOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO TEDDD
+
+
+
 Console.WriteLine(BasicMath.Calculate(2, "+", 5));
 Console.WriteLine(BasicMath.Calculate(4, "-", 5));
 Console.WriteLine(BasicMath.Calculate(6, "*", 5));
