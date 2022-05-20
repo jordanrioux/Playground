@@ -13,6 +13,13 @@ Console.WriteLine(BasicMath.Calculate(1, "/", 2));
 Console.WriteLine(BasicMath.Calculate(1, "/", 2));
 Console.WriteLine(BasicMath.Calculate(1, "/", 2));
 Console.WriteLine(BasicMath.Calculate(1, "/", 2));
+Console.WriteLine(BasicMath.Calculate(1, "/", 2));
+Console.WriteLine(BasicMath.Calculate(1, "/", 2));
+Console.WriteLine(BasicMath.Calculate(1, "/", 2));
+Console.WriteLine(BasicMath.Calculate(1, "/", 2));
+Console.WriteLine(BasicMath.Calculate(1, "/", 2));
+Console.WriteLine(BasicMath.Calculate(1, "/", 2));
+
 
 try
 {
