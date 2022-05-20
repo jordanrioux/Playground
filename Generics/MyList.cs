@@ -15,6 +15,7 @@ public class MyList<T>
     // {
     //     get { return _count; }
     // }
+    //test
     protected int Capacity { get; private set; }
 
     public MyList() : this(DefaultCapacity)
