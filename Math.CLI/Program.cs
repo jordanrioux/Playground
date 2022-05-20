@@ -20,6 +20,9 @@ Console.WriteLine(BasicMath.Calculate(2, "+", 5));
 Console.WriteLine(BasicMath.Calculate(4, "-", 5));
 
 
+var PotatoTest = "";
+var VeryImportantValue = 69;
+
 try
 {
     Console.WriteLine(BasicMath.Calculate(1, "bob", 2));
