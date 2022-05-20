@@ -8,6 +8,8 @@ public class MyList<T>
     
     private int _count;
     private T[] _array;
+    private T[] _HELLOTHERE;
+    private T[] _KENOBI;
 
     public int Count => _count;
     
