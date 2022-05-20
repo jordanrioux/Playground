@@ -1,4 +1,6 @@
-﻿using MathLibrary;
+﻿//See that mountain? You can climb it.
+
+using MathLibrary;
 
 BasicMath.AddOperation("%", (a, b) => a % b);
 BasicMath.AddOperation("bob", (a, b) => -b);
