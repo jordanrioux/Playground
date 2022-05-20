@@ -48,7 +48,12 @@ public class BasicMath
     {
         return a / b;
     }
-    
+
+    public static double Sqrt(int a)
+    {
+        return Math.Sqrt(a);
+    }
+
     private static void Test()
     {
         Action callback = NoParamNoReturn;
@@ -60,10 +65,10 @@ public class BasicMath
         Action<string> a2 = OneParamNoReturn;
         a2?.Invoke("test");
 
-        Action<int, string> a3;
+        //Action<int, string> a3;
 
-        Func<int> f;
-        Func<int, double> f2;
+        //Func<int> f;
+        //Func<int, double> f2;
     }
 
     private static void OneParamNoReturn(string obj)

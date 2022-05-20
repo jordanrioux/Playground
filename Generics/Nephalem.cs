@@ -18,6 +18,7 @@ public class Nephalem
 
     [JsonPropertyName("items")]
     public List<Item> Items { get; set; }
+    //todo : je vous aime
 }
 
 public class Item

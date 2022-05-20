@@ -4,16 +4,20 @@ namespace Generics;
 
 public class MyList<T>
 {
+    // easy fix
     private const int DefaultCapacity = 8;
     
     private int _count;
     private T[] _array;
+    private T[] _HELLOTHERE;
+    private T[] _KENOBI;
+    private T[] _OKAYBOOMER;
 
     public int Count => _count;
     
     // public int Count 
     // {
-    //     get { return _count; }
+    //     get { return _count; } woops
     // }
     protected int Capacity { get; private set; }
 
