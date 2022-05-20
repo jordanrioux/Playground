@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mathiscote/Test/Playground/Networking/Networking.csproj": {}
+    "C:\\Users\\acollette\\OneDrive - Cegep de Sorel-Tracy\\HIV 2022\\POO III\\JordyPlayground\\Playground\\Networking\\Networking.csproj": {}
   },
   "projects": {
-    "/Users/mathiscote/Test/Playground/Networking/Networking.csproj": {
+    "C:\\Users\\acollette\\OneDrive - Cegep de Sorel-Tracy\\HIV 2022\\POO III\\JordyPlayground\\Playground\\Networking\\Networking.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mathiscote/Test/Playground/Networking/Networking.csproj",
+        "projectUniqueName": "C:\\Users\\acollette\\OneDrive - Cegep de Sorel-Tracy\\HIV 2022\\POO III\\JordyPlayground\\Playground\\Networking\\Networking.csproj",
         "projectName": "Networking",
-        "projectPath": "/Users/mathiscote/Test/Playground/Networking/Networking.csproj",
-        "packagesPath": "/Users/mathiscote/.nuget/packages/",
-        "outputPath": "/Users/mathiscote/Test/Playground/Networking/obj/",
+        "projectPath": "C:\\Users\\acollette\\OneDrive - Cegep de Sorel-Tracy\\HIV 2022\\POO III\\JordyPlayground\\Playground\\Networking\\Networking.csproj",
+        "packagesPath": "C:\\Users\\acollette\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\acollette\\OneDrive - Cegep de Sorel-Tracy\\HIV 2022\\POO III\\JordyPlayground\\Playground\\Networking\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/mathiscote/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\acollette\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.105\\RuntimeIdentifierGraph.json"
         }
       }
     }
