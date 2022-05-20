@@ -11,6 +11,7 @@ public class MyList<T>
     private T[] _array;
     private T[] _HELLOTHERE;
     private T[] _KENOBI;
+    private T[] _OKAYBOOMER;
 
     public int Count => _count;
     
