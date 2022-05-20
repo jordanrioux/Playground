@@ -21,7 +21,8 @@ Console.WriteLine(BasicMath.Calculate(4, "-", 5));
 Console.WriteLine(BasicMath.Calculate(6, "*", 5));
 Console.WriteLine(BasicMath.Calculate(1, "/", 2));
 
-Var PotatoTest = "";
+var PotatoTest = "";
+var VeryImportantValue = 69;
 
 try
 {
