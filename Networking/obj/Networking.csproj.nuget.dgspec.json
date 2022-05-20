@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mathiscote/Test/Playground/Networking/Networking.csproj": {}
+    "/Users/lionel/Documents/Playground/Networking/Networking.csproj": {}
   },
   "projects": {
-    "/Users/mathiscote/Test/Playground/Networking/Networking.csproj": {
+    "/Users/lionel/Documents/Playground/Networking/Networking.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mathiscote/Test/Playground/Networking/Networking.csproj",
+        "projectUniqueName": "/Users/lionel/Documents/Playground/Networking/Networking.csproj",
         "projectName": "Networking",
-        "projectPath": "/Users/mathiscote/Test/Playground/Networking/Networking.csproj",
-        "packagesPath": "/Users/mathiscote/.nuget/packages/",
-        "outputPath": "/Users/mathiscote/Test/Playground/Networking/obj/",
+        "projectPath": "/Users/lionel/Documents/Playground/Networking/Networking.csproj",
+        "packagesPath": "/Users/lionel/.nuget/packages/",
+        "outputPath": "/Users/lionel/Documents/Playground/Networking/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/mathiscote/.nuget/NuGet/NuGet.Config"
+          "/Users/lionel/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
         }
       }
     }
