@@ -9,7 +9,7 @@ Console.WriteLine(BasicMath.Calculate(1, "/", 2));
 Console.WriteLine(BasicMath.Calculate(1, "/", 2));
 Console.WriteLine(BasicMath.Calculate(1, "/", 2));
 Console.WriteLine(BasicMath.Calculate(1, "/", 2));
-Console.WriteLine(BasicMath.Calculate(1, "/", 2));
+Console.WriteLine(BasicMath.Calculate(1, "/",3434));
 Console.WriteLine(BasicMath.Calculate(1, "/", 2));
 Console.WriteLine(BasicMath.Calculate(1, "/", 2));
 
