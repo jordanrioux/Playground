@@ -13,7 +13,7 @@ public class MyList<T>
     
     // public int Count 
     // {
-    //     get { return _count; }
+    //     get { return _count; } woops
     // }
     protected int Capacity { get; private set; }
 
