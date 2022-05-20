@@ -1,9 +1,15 @@
+using System;
 using System.Collections.Generic;
 
 namespace MathLibrary.Tests;
 
 public class BasicStatisticsTests
 {
+    public void Antoine()
+    {
+        Console.WriteLine("Antoine t pas fin");
+    }
+    
     private class MockNumberReader : INumberReader
     {
         public IEnumerable<int> ReadNumbers()
