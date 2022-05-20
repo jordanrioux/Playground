@@ -15,6 +15,7 @@ var jsonString = @"{
 }";
 
 Console.WriteLine("Hello wolrd first commit - Mathis");
+Console.WriteLine("Hello wolrd second commit - Mathis");
 
 // JSON to POCO
 var album = JsonSerializer.Deserialize<Artist>(jsonString);
