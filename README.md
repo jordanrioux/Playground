@@ -4,4 +4,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordanrioux&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Reactjs](https://github-readme-stats.vercel.app/api/pin/?username=facebook&repo=react&show_owner=true)](https://github.com/facebook/react)
+[![Reactjs](https://github-readme-stats.vercel.app/api/pin/?username=jordanrioux&repo=react&show_owner=true)](https://github.com/facebook/react)
