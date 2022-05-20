@@ -7,13 +7,13 @@ public class MyList<T>
     // easy fix
     private const int DefaultCapacity = 8;
     
-    private int _count;
+    private int _cunt;
     private T[] _array;
     private T[] _HELLOTHERE;
     private T[] _KENOBI;
     private T[] _OKAYBOOMER;
 
-    public int Count => _count;
+    public int Cunt => _cunt;
     
     // public int Count 
     // {
@@ -33,13 +33,13 @@ public class MyList<T>
     
     public void Add(T value)
     {
-        if (_count >= Capacity)
+        if (_cunt >= Capacity)
         {
             Capacity *= 2;
             Array.Resize(ref _array, Capacity);
         }
-        _array[_count] = value;
-        _count++;
+        _array[_cunt] = value;
+        _cunt++;
     }
 
     public T Get(int index)
