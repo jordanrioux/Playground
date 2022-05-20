@@ -2,8 +2,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{3199665A-1A65-4582-A31C-0F2513668E3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics.CLI", "Generics.CLI\Generics.CLI.csproj", "{FB3DB7C7-412F-4629-83A8-B9AC85115F73}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics.Benchmarks", "Generics.Benchmarks\Generics.Benchmarks.csproj", "{924164AD-5937-4041-9E18-864CE93B376E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmongUs.Core", "AmongUs.Core\AmongUs.Core.csproj", "{BAE7B491-5391-40B0-8773-603F42A6FFA0}"
@@ -18,10 +16,6 @@ Global
 		{3199665A-1A65-4582-A31C-0F2513668E3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3199665A-1A65-4582-A31C-0F2513668E3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3199665A-1A65-4582-A31C-0F2513668E3E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{FB3DB7C7-412F-4629-83A8-B9AC85115F73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FB3DB7C7-412F-4629-83A8-B9AC85115F73}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FB3DB7C7-412F-4629-83A8-B9AC85115F73}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FB3DB7C7-412F-4629-83A8-B9AC85115F73}.Release|Any CPU.Build.0 = Release|Any CPU
 		{924164AD-5937-4041-9E18-864CE93B376E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{924164AD-5937-4041-9E18-864CE93B376E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{924164AD-5937-4041-9E18-864CE93B376E}.Release|Any CPU.ActiveCfg = Release|Any CPU
