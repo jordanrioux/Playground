@@ -7,17 +7,14 @@
     <projectFile>Networking/Networking.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6d99a67-f4d4-4e0a-95bf-4332d86f1255" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/MathLibrary/MathLibrary.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/MathLibrary/MathLibrary.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playground.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Playground.sln" afterDir="false" />
-    </list>
+    <list default="true" id="c6d99a67-f4d4-4e0a-95bf-4332d86f1255" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DarkyenusTimeTracker">
-    <option name="totalTimeSeconds" value="914" />
+    <option name="totalTimeSeconds" value="1243" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -130,7 +127,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1653057313696</updated>
-      <workItem from="1653057322454" duration="1280000" />
+      <workItem from="1653057322454" duration="1609000" />
     </task>
     <servers />
   </component>
