@@ -21,6 +21,3 @@ catch (NotSupportedException e)
 {
     Console.WriteLine(e);
 }
-
-
-// OWO UWU OWO
