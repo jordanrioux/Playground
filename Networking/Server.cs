@@ -81,10 +81,6 @@ public class Server
 
         Console.WriteLine(data);
         Console.WriteLine("Done!");
-        
-        //Console.WriteLine(BitConverter.ToString(buffer));
-        //var data = Encoding.UTF8.GetString(buffer);
-        //Console.WriteLine(data);
 
         var response = $"HTTP/1.1 200 OK\r\n";
         response += "Content-Length: 9\r\n";
