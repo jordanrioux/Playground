@@ -5434,19 +5434,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\acollette\\.nuget\\packages\\": {}
+    "/Users/lionel/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\acollette\\OneDrive - Cegep de Sorel-Tracy\\HIV 2022\\POO III\\JordyPlayground\\Playground\\Generics.Benchmarks\\Generics.Benchmarks.csproj",
+      "projectUniqueName": "/Users/lionel/Documents/Playground/Generics.Benchmarks/Generics.Benchmarks.csproj",
       "projectName": "Generics.Benchmarks",
-      "projectPath": "C:\\Users\\acollette\\OneDrive - Cegep de Sorel-Tracy\\HIV 2022\\POO III\\JordyPlayground\\Playground\\Generics.Benchmarks\\Generics.Benchmarks.csproj",
-      "packagesPath": "C:\\Users\\acollette\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\acollette\\OneDrive - Cegep de Sorel-Tracy\\HIV 2022\\POO III\\JordyPlayground\\Playground\\Generics.Benchmarks\\obj\\",
+      "projectPath": "/Users/lionel/Documents/Playground/Generics.Benchmarks/Generics.Benchmarks.csproj",
+      "packagesPath": "/Users/lionel/.nuget/packages/",
+      "outputPath": "/Users/lionel/Documents/Playground/Generics.Benchmarks/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\acollette\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/lionel/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -5458,8 +5458,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\acollette\\OneDrive - Cegep de Sorel-Tracy\\HIV 2022\\POO III\\JordyPlayground\\Playground\\Generics\\Generics.csproj": {
-              "projectPath": "C:\\Users\\acollette\\OneDrive - Cegep de Sorel-Tracy\\HIV 2022\\POO III\\JordyPlayground\\Playground\\Generics\\Generics.csproj"
+            "/Users/lionel/Documents/Playground/Generics/Generics.csproj": {
+              "projectPath": "/Users/lionel/Documents/Playground/Generics/Generics.csproj"
             }
           }
         }
@@ -5494,7 +5494,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.105\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
       }
     }
   }

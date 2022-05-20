@@ -16,7 +16,7 @@ Console.WriteLine(BasicMath.Calculate(1, "/", 2));
 Console.WriteLine(BasicMath.Calculate(1, "/", 2));
 Console.WriteLine(BasicMath.Calculate(1, "/", 2));
 Console.WriteLine(BasicMath.Calculate(1, "/", 2));
-Console.WriteLine(BasicMath.Calculate(1, "/", 2));
+
 Console.WriteLine(BasicMath.Calculate(1, "/", 2));
 Console.WriteLine(BasicMath.Calculate(1, "/", 2));
 Console.WriteLine(BasicMath.Calculate(1, "/", 2));
@@ -29,7 +29,8 @@ try
 }
 catch (NotSupportedException e)
 {
-    
+    Console.WriteLine(e);
 }
 
-// Test
+
+// Test ojsdhfkljsdfkjh sdfsdfsdfs gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg

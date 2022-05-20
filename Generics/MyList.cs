@@ -11,10 +11,7 @@ public class MyList<T>
 
     public int Count => _count;
     
-    // public int Count 
-    // {
-    //     get { return _count; }
-    // }
+   // mange la morphine
     protected int Capacity { get; private set; }
 
     public MyList() : this(DefaultCapacity)
