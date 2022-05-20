@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mathiscote/Test/Playground/Generics.Benchmarks/Generics.Benchmarks.csproj": {}
+    "/Users/lionel/Documents/Playground/Generics.Benchmarks/Generics.Benchmarks.csproj": {}
   },
   "projects": {
-    "/Users/mathiscote/Test/Playground/Generics.Benchmarks/Generics.Benchmarks.csproj": {
+    "/Users/lionel/Documents/Playground/Generics.Benchmarks/Generics.Benchmarks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mathiscote/Test/Playground/Generics.Benchmarks/Generics.Benchmarks.csproj",
+        "projectUniqueName": "/Users/lionel/Documents/Playground/Generics.Benchmarks/Generics.Benchmarks.csproj",
         "projectName": "Generics.Benchmarks",
-        "projectPath": "/Users/mathiscote/Test/Playground/Generics.Benchmarks/Generics.Benchmarks.csproj",
-        "packagesPath": "/Users/mathiscote/.nuget/packages/",
-        "outputPath": "/Users/mathiscote/Test/Playground/Generics.Benchmarks/obj/",
+        "projectPath": "/Users/lionel/Documents/Playground/Generics.Benchmarks/Generics.Benchmarks.csproj",
+        "packagesPath": "/Users/lionel/.nuget/packages/",
+        "outputPath": "/Users/lionel/Documents/Playground/Generics.Benchmarks/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/mathiscote/.nuget/NuGet/NuGet.Config"
+          "/Users/lionel/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -26,8 +26,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/mathiscote/Test/Playground/Generics/Generics.csproj": {
-                "projectPath": "/Users/mathiscote/Test/Playground/Generics/Generics.csproj"
+              "/Users/lionel/Documents/Playground/Generics/Generics.csproj": {
+                "projectPath": "/Users/lionel/Documents/Playground/Generics/Generics.csproj"
               }
             }
           }
@@ -62,21 +62,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/mathiscote/Test/Playground/Generics/Generics.csproj": {
+    "/Users/lionel/Documents/Playground/Generics/Generics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mathiscote/Test/Playground/Generics/Generics.csproj",
+        "projectUniqueName": "/Users/lionel/Documents/Playground/Generics/Generics.csproj",
         "projectName": "Generics",
-        "projectPath": "/Users/mathiscote/Test/Playground/Generics/Generics.csproj",
-        "packagesPath": "/Users/mathiscote/.nuget/packages/",
-        "outputPath": "/Users/mathiscote/Test/Playground/Generics/obj/",
+        "projectPath": "/Users/lionel/Documents/Playground/Generics/Generics.csproj",
+        "packagesPath": "/Users/lionel/.nuget/packages/",
+        "outputPath": "/Users/lionel/Documents/Playground/Generics/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/mathiscote/.nuget/NuGet/NuGet.Config"
+          "/Users/lionel/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -114,7 +114,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
         }
       }
     }

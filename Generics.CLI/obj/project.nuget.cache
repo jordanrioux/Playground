@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ckjaq/s5B22isXLjdui/pSX/kJLAVsx3TvB5LGQkrjJPpgsMHvT/LLENoLNXXwExEGRerQr7QN/o2ekMDIWiVQ==",
+  "dgSpecHash": "memzMy/DDov3S45OoCVGfHpz+su4+MIUOAr+5eKwsiUJgzo8wmV0u5Hu31TgJ0kqlIK7U2U56FAtNXmguohPNQ==",
   "success": true,
-  "projectFilePath": "/Users/mathiscote/Test/Playground/Generics.CLI/Generics.CLI.csproj",
+  "projectFilePath": "/Users/lionel/Documents/Playground/Generics.CLI/Generics.CLI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
