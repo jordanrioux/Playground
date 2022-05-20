@@ -7,7 +7,9 @@
     <projectFile>Networking/Networking.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6d99a67-f4d4-4e0a-95bf-4332d86f1255" name="Changes" comment="" />
+    <list default="true" id="c6d99a67-f4d4-4e0a-95bf-4332d86f1255" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Math.CLI/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Math.CLI/Program.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,17 +26,13 @@
     </option>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/MathLibrary.Tests/Usings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MathLibrary.Tests/BasicStatisticsTests.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Generics.CLI/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Generics.CLI/Album.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/gabri/Desktop/Ecole/EcoleSessionHiver2022/test github/Playground/Generics/MyList.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/gabri/Desktop/Ecole/EcoleSessionHiver2022/test github/Playground/Generics/MyList.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Networking/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/gabri/Desktop/Ecole/EcoleSessionHiver2022/test github/Playground/Mathis.Core/EventSystem.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Networking/Server.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Networking/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Math.CLI/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/gabri/Desktop/Ecole/EcoleSessionHiver2022/test github/Playground/Generics/MyList.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/MathLibrary.Tests/BasicStatisticsTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MathLibrary.Tests/Usings.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
