@@ -4,11 +4,23 @@ BasicMath.AddOperation("%", (a, b) => a % b);
 BasicMath.AddOperation("bob", (a, b) => -b);
 
 Console.WriteLine(BasicMath.Calculate(2, "+", 5));
-Console.WriteLine(BasicMath.Calculate(4, "-", 5));
-Console.WriteLine(BasicMath.Calculate(6, "*", 5));
+
+Console.WriteLine(BasicMath.Calculate(1, "/", 2000));
 Console.WriteLine(BasicMath.Calculate(1, "/", 2));
 Console.WriteLine(BasicMath.Calculate(1, "/", 2));
 Console.WriteLine(BasicMath.Calculate(1, "/", 2));
+Console.WriteLine(BasicMath.Calculate(1, "/", 2));
+Console.WriteLine(BasicMath.Calculate(1, "/", 2));
+Console.WriteLine(BasicMath.Calculate(1, "/", 2));
+Console.WriteLine(BasicMath.Calculate(1, "/", 2));
+
+Console.WriteLine(BasicMath.Calculate(1, "/", 2));
+Console.WriteLine(BasicMath.Calculate(1, "/", 2));
+Console.WriteLine(BasicMath.Calculate(1, "/", 2));
+Console.WriteLine(BasicMath.Calculate(1, "/", 2));
+Console.WriteLine(BasicMath.Calculate(1, "/", 2));
+Console.WriteLine(BasicMath.Calculate(1, "/", 2));
+
 
 try
 {
@@ -19,4 +31,5 @@ catch (NotSupportedException e)
     Console.WriteLine(e);
 }
 
-// Test
+
+// Test ojsdhfkljsdfkjh sdfsdfsdfs
