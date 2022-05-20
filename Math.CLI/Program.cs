@@ -1,4 +1,5 @@
-﻿using MathLibrary;
+﻿using System;
+using MathLibrary;
 
 BasicMath.AddOperation("%", (a, b) => a % b);
 BasicMath.AddOperation("bob", (a, b) => -b);
